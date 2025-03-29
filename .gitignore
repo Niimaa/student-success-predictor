@@ -1,0 +1,18 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# Ignore models and data
+models/*.pkl
+*.csv
+
+# Ignore Streamlit cache
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
