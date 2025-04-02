@@ -1,0 +1,399 @@
+Category,EncodedValue,DecodedValue
+ProgrammeName,0,Auto Engineering and Welding (Level 2)
+ProgrammeName,1,BSIE Workshops
+ProgrammeName,2,Bachelor of Construction (Quantity Surveying) (Level 7)
+ProgrammeName,3,Business Intelligence Certificate in Analytics to Support Managerial Decisions (Micro-credential) (Level 7)
+ProgrammeName,4,Business Intelligence Certificate in Creating Value with AI-Powered Analytics and Visualisation (Micro-credential) (Level 7)
+ProgrammeName,5,Business Intelligence Certificate in Handling and Interpreting Data for Decision Making (Micro-credential) (Level 6)
+ProgrammeName,6,Certificate in Intermediate Software Development (Micro-credential) (Level 6)
+ProgrammeName,7,Certificate in Introductory Software Development (Micro-credential) (Level 5)
+ProgrammeName,8,Early Childhood Education and Community Services (Level 2)
+ProgrammeName,9,Graduate Certificate in Information Technology (Level 7)
+ProgrammeName,10,Intensive Literacy and Numeracy
+ProgrammeName,11,Master of Applied Management (Business Information Systems) (Level 9)
+ProgrammeName,12,Master of Applied Management (Business Management) (Level 9)
+ProgrammeName,13,"National Certificate in Building, Construction and Allied Trades Skills (Level 2)"
+ProgrammeName,14,New Zealand Certificate in  Building Regulatory Environment (Level 4)
+ProgrammeName,15,"New Zealand Certificate in Building, Construction, and Allied Trades Skills (Level 2)"
+ProgrammeName,16,New Zealand Certificate in Early Childhood Education and Care (Level 3)
+ProgrammeName,17,New Zealand Certificate in Early Learning and Care (Level 2)
+ProgrammeName,18,New Zealand Certificate in English Language (Academic) (Level 5)
+ProgrammeName,19,New Zealand Certificate in Financial Services (Level 5)
+ProgrammeName,20,New Zealand Certificate in Foundation Skills (Level 2)
+ProgrammeName,21,New Zealand Certificate in Health and Wellbeing (Advanced Care and Support) (Level 4)
+ProgrammeName,22,New Zealand Certificate in Health and Wellbeing (Level 2)
+ProgrammeName,23,New Zealand Certificate in Health and Wellbeing (Level 3)
+ProgrammeName,24,New Zealand Certificate in Health and Wellbeing (Social and Community Services) (Level 4)
+ProgrammeName,25,New Zealand Certificate in Hospitality (Level 2)
+ProgrammeName,26,New Zealand Certificate in Manufacturing (Level 2)
+ProgrammeName,27,New Zealand Diploma in Building Surveying (Level 6)
+ProgrammeName,28,New Zealand Diploma in Building Surveying (Level 6) - In-Employment
+ProgrammeName,29,New Zealand Diploma in Construction (Level 6)
+ProgrammeName,30,New Zealand Diploma in Early Childhood Education and Care (Level 5)
+ProgrammeName,31,Nursing Competence Assessment Programme
+ProgrammeName,32,PCSTAR
+ProgrammeName,33,Postgraduate Diploma in Applied Management (Business Management) (Level 8)
+ProgrammeName,34,Practical Caring Skills for Sole Charge Nannies and Early Childhood Educators (Level 5)
+ProgrammeName,35,Welding Certificate in Health and Safety Industry Practices (Micro-credential) (level 2)
+ProgrammeName,36,Welding Certificate in Industry Practice - Gas Tungsten Arc Welding Process on Steel Sheet and Aluminium Metals (Micro-credential) (Level 3)
+ProgrammeName,37,Welding Certificate in Industry Practices - Gas Metal Arc Welding Processes (Micro-credential) (Level 3)
+ProgrammeName,38,Welding Certificate in Industry Practices - Manual Metal Arc Welding Processes (Micro-credential) (Level 3)
+ProgrammeName,39,Welding Certificate in Introductory Welding Processes (Micro-credential) (Level 3)
+Citizenship,0,AFG
+Citizenship,1,ARG
+Citizenship,2,AUS
+Citizenship,3,BDI
+Citizenship,4,BGD
+Citizenship,5,BOL
+Citizenship,6,BRA
+Citizenship,7,BTN
+Citizenship,8,CAF
+Citizenship,9,CAN
+Citizenship,10,CHL
+Citizenship,11,CHN
+Citizenship,12,COD
+Citizenship,13,COL
+Citizenship,14,DEU
+Citizenship,15,ECU
+Citizenship,16,EGY
+Citizenship,17,ERI
+Citizenship,18,ETH
+Citizenship,19,FJI
+Citizenship,20,FRA
+Citizenship,21,GBR
+Citizenship,22,HUN
+Citizenship,23,IDN
+Citizenship,24,IND
+Citizenship,25,IRL
+Citizenship,26,IRN
+Citizenship,27,IRQ
+Citizenship,28,ITA
+Citizenship,29,JPN
+Citizenship,30,KAZ
+Citizenship,31,KEN
+Citizenship,32,KHM
+Citizenship,33,KIR
+Citizenship,34,KOR
+Citizenship,35,LAO
+Citizenship,36,LKA
+Citizenship,37,MEX
+Citizenship,38,MMR
+Citizenship,39,MNG
+Citizenship,40,MYS
+Citizenship,41,NGA
+Citizenship,42,NLD
+Citizenship,43,NPL
+Citizenship,44,NZL
+Citizenship,45,PAK
+Citizenship,46,PER
+Citizenship,47,PHL
+Citizenship,48,PNG
+Citizenship,49,PRK
+Citizenship,50,RUS
+Citizenship,51,SAU
+Citizenship,52,SDN
+Citizenship,53,SGP
+Citizenship,54,SOM
+Citizenship,55,THA
+Citizenship,56,TON
+Citizenship,57,TUR
+Citizenship,58,TUV
+Citizenship,59,TWN
+Citizenship,60,UKR
+Citizenship,61,UNR
+Citizenship,62,USA
+Citizenship,63,Unknown
+Citizenship,64,VNM
+Citizenship,65,WSM
+Citizenship,66,YEM
+Citizenship,67,ZAF
+Citizenship,68,ZWE
+Gender,0,F
+Gender,1,M
+Gender,2,U
+Ethnicity,0,African
+Ethnicity,1,Chinese
+Ethnicity,2,East Asian
+Ethnicity,3,European
+Ethnicity,4,Indian Subcontinent
+Ethnicity,5,Latin American
+Ethnicity,6,Maori
+Ethnicity,7,Middle Eastern
+Ethnicity,8,Other
+Ethnicity,9,Pacific
+Ethnicity,10,Southeast Asian
+FirstTertiaryYear,0,Y_0
+FirstTertiaryYear,1,Y_1-5
+FirstTertiaryYear,2,Y_11-20
+FirstTertiaryYear,3,Y_21+
+FirstTertiaryYear,4,Y_6-10
+PreStudyActivity,0,1
+PreStudyActivity,1,11
+PreStudyActivity,2,12
+PreStudyActivity,3,2
+PreStudyActivity,4,3
+PreStudyActivity,5,4
+PreStudyActivity,6,5
+PreStudyActivity,7,6
+PreStudyActivity,8,7
+PreStudyActivity,9,8
+PreStudyActivity,10,9
+PreStudyActivity,11,Unknown
+SecondarySchool,0,100
+SecondarySchool,1,101
+SecondarySchool,2,102
+SecondarySchool,3,103
+SecondarySchool,4,104
+SecondarySchool,5,105
+SecondarySchool,6,106
+SecondarySchool,7,109
+SecondarySchool,8,11
+SecondarySchool,9,110
+SecondarySchool,10,111
+SecondarySchool,11,112
+SecondarySchool,12,117
+SecondarySchool,13,118
+SecondarySchool,14,119
+SecondarySchool,15,1190
+SecondarySchool,16,120
+SecondarySchool,17,121
+SecondarySchool,18,1210
+SecondarySchool,19,122
+SecondarySchool,20,123
+SecondarySchool,21,124
+SecondarySchool,22,126
+SecondarySchool,23,127
+SecondarySchool,24,129
+SecondarySchool,25,13
+SecondarySchool,26,131
+SecondarySchool,27,132
+SecondarySchool,28,134
+SecondarySchool,29,135
+SecondarySchool,30,137
+SecondarySchool,31,138
+SecondarySchool,32,139
+SecondarySchool,33,14
+SecondarySchool,34,141
+SecondarySchool,35,142
+SecondarySchool,36,144
+SecondarySchool,37,146
+SecondarySchool,38,151
+SecondarySchool,39,152
+SecondarySchool,40,153
+SecondarySchool,41,154
+SecondarySchool,42,1574
+SecondarySchool,43,159
+SecondarySchool,44,16
+SecondarySchool,45,160
+SecondarySchool,46,1606
+SecondarySchool,47,166
+SecondarySchool,48,167
+SecondarySchool,49,169
+SecondarySchool,50,17
+SecondarySchool,51,170
+SecondarySchool,52,171
+SecondarySchool,53,172
+SecondarySchool,54,173
+SecondarySchool,55,175
+SecondarySchool,56,179
+SecondarySchool,57,181
+SecondarySchool,58,189
+SecondarySchool,59,19
+SecondarySchool,60,190
+SecondarySchool,61,195
+SecondarySchool,62,197
+SecondarySchool,63,198
+SecondarySchool,64,20
+SecondarySchool,65,202
+SecondarySchool,66,203
+SecondarySchool,67,208
+SecondarySchool,68,2085
+SecondarySchool,69,209
+SecondarySchool,70,215
+SecondarySchool,71,216
+SecondarySchool,72,217
+SecondarySchool,73,218
+SecondarySchool,74,22
+SecondarySchool,75,225
+SecondarySchool,76,227
+SecondarySchool,77,228
+SecondarySchool,78,229
+SecondarySchool,79,23
+SecondarySchool,80,234
+SecondarySchool,81,236
+SecondarySchool,82,24
+SecondarySchool,83,241
+SecondarySchool,84,243
+SecondarySchool,85,247
+SecondarySchool,86,248
+SecondarySchool,87,249
+SecondarySchool,88,25
+SecondarySchool,89,250
+SecondarySchool,90,251
+SecondarySchool,91,253
+SecondarySchool,92,255
+SecondarySchool,93,257
+SecondarySchool,94,26
+SecondarySchool,95,260
+SecondarySchool,96,261
+SecondarySchool,97,262
+SecondarySchool,98,263
+SecondarySchool,99,268
+SecondarySchool,100,269
+SecondarySchool,101,27
+SecondarySchool,102,272
+SecondarySchool,103,274
+SecondarySchool,104,275
+SecondarySchool,105,2758
+SecondarySchool,106,277
+SecondarySchool,107,28
+SecondarySchool,108,281
+SecondarySchool,109,287
+SecondarySchool,110,289
+SecondarySchool,111,29
+SecondarySchool,112,292
+SecondarySchool,113,293
+SecondarySchool,114,294
+SecondarySchool,115,295
+SecondarySchool,116,296
+SecondarySchool,117,298
+SecondarySchool,118,30
+SecondarySchool,119,301
+SecondarySchool,120,305
+SecondarySchool,121,307
+SecondarySchool,122,31
+SecondarySchool,123,3114
+SecondarySchool,124,312
+SecondarySchool,125,315
+SecondarySchool,126,319
+SecondarySchool,127,32
+SecondarySchool,128,320
+SecondarySchool,129,321
+SecondarySchool,130,326
+SecondarySchool,131,327
+SecondarySchool,132,331
+SecondarySchool,133,333
+SecondarySchool,134,334
+SecondarySchool,135,336
+SecondarySchool,136,338
+SecondarySchool,137,343
+SecondarySchool,138,347
+SecondarySchool,139,349
+SecondarySchool,140,35
+SecondarySchool,141,351
+SecondarySchool,142,352
+SecondarySchool,143,357
+SecondarySchool,144,358
+SecondarySchool,145,359
+SecondarySchool,146,36
+SecondarySchool,147,361
+SecondarySchool,148,365
+SecondarySchool,149,366
+SecondarySchool,150,37
+SecondarySchool,151,373
+SecondarySchool,152,375
+SecondarySchool,153,376
+SecondarySchool,154,377
+SecondarySchool,155,38
+SecondarySchool,156,382
+SecondarySchool,157,384
+SecondarySchool,158,39
+SecondarySchool,159,393
+SecondarySchool,160,395
+SecondarySchool,161,399
+SecondarySchool,162,40
+SecondarySchool,163,404
+SecondarySchool,164,41
+SecondarySchool,165,42
+SecondarySchool,166,4208
+SecondarySchool,167,4225
+SecondarySchool,168,426
+SecondarySchool,169,428
+SecondarySchool,170,43
+SecondarySchool,171,432
+SecondarySchool,172,44
+SecondarySchool,173,45
+SecondarySchool,174,452
+SecondarySchool,175,454
+SecondarySchool,176,47
+SecondarySchool,177,471
+SecondarySchool,178,473
+SecondarySchool,179,48
+SecondarySchool,180,484
+SecondarySchool,181,488
+SecondarySchool,182,49
+SecondarySchool,183,491
+SecondarySchool,184,497
+SecondarySchool,185,498
+SecondarySchool,186,5
+SecondarySchool,187,50
+SecondarySchool,188,51
+SecondarySchool,189,52
+SecondarySchool,190,53
+SecondarySchool,191,536
+SecondarySchool,192,54
+SecondarySchool,193,552
+SecondarySchool,194,555
+SecondarySchool,195,563
+SecondarySchool,196,564
+SecondarySchool,197,57
+SecondarySchool,198,58
+SecondarySchool,199,59
+SecondarySchool,200,617
+SecondarySchool,201,62
+SecondarySchool,202,63
+SecondarySchool,203,64
+SecondarySchool,204,65
+SecondarySchool,205,6763
+SecondarySchool,206,69
+SecondarySchool,207,6929
+SecondarySchool,208,6930
+SecondarySchool,209,694
+SecondarySchool,210,7
+SecondarySchool,211,70
+SecondarySchool,212,73
+SecondarySchool,213,737
+SecondarySchool,214,74
+SecondarySchool,215,75
+SecondarySchool,216,78
+SecondarySchool,217,79
+SecondarySchool,218,80
+SecondarySchool,219,81
+SecondarySchool,220,83
+SecondarySchool,221,84
+SecondarySchool,222,847
+SecondarySchool,223,85
+SecondarySchool,224,854
+SecondarySchool,225,86
+SecondarySchool,226,87
+SecondarySchool,227,88
+SecondarySchool,228,9
+SecondarySchool,229,90
+SecondarySchool,230,900
+SecondarySchool,231,91
+SecondarySchool,232,93
+SecondarySchool,233,94
+SecondarySchool,234,95
+SecondarySchool,235,96
+SecondarySchool,236,97
+SecondarySchool,237,972
+SecondarySchool,238,99
+SecondarySchool,239,997
+SecondarySchool,240,999
+SecondarySchool,241,Other/Unknown
+SecondarySchoolAward,0,0
+SecondarySchoolAward,1,11
+SecondarySchoolAward,2,12
+SecondarySchoolAward,3,13
+SecondarySchoolAward,4,14
+SecondarySchoolAward,5,15
+SecondarySchoolAward,6,9
+SecondarySchoolAward,7,98
+SecondarySchoolAward,8,99
+SecondarySchoolAward,9,0
+Age_Group,0,18-24
+Age_Group,1,25-34
+Age_Group,2,35-44
+Age_Group,3,45-54
+Age_Group,4,55-65
+Age_Group,5,Under 18
